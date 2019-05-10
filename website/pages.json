@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Overview",
+    "children": [
+      {
+        "name": "Introduction",
+        "markdown": "README.md"
+      },
+      {
+        "name": "What's New",
+        "markdown": "whats-new.md"
+      }
+    ]
+  },
+  {
+    "name": "Getting Started",
+    "children": [
+      {
+        "name": "Starter Kit",
+        "markdown": "get-started/starter-kit.md"
+      },
+      {
+        "name": "About Mapbox Tokens",
+        "markdown": "get-started/mapbox-tokens.md"
+      },
+      {
+        "name": "Styling Guide",
+        "markdown": "get-started/styling.md"
+      }
+    ]
+  },
+  {
+    "name": "Advanced Topics",
+    "children": [
+      {
+        "name": "Add Custom 3D Layers",
+        "markdown": "developer-guide/custom-layers.md"
+      },
+      {
+        "name": "Use Alternative State Manager",
+        "markdown": "developer-guide/state-management.md"
+      },
+      {
+        "name": "Display Multiple Logs",
+        "markdown": "developer-guide/multiple-logs.md"
+      }
+    ]
+  },
+  {
+    "name": "API Reference",
+    "children": [
+      {
+        "name": "Assets",
+        "children": [
+          {
+            "name": "CarMesh",
+            "markdown": "api-reference/car-mesh.md"
+          }
+        ]
+      },
+      {
+        "name": "Loaders",
+        "children": [
+          {
+            "name": "XVIZFileLoader",
+            "markdown": "api-reference/xviz-file-loader.md"
+          },
+          {
+            "name": "XVIZLoaderInterface",
+            "markdown": "api-reference/xviz-loader-interface.md"
+          },
+          {
+            "name": "XVIZStreamLoader",
+            "markdown": "api-reference/xviz-stream-loader.md"
+          },
+          {
+            "name": "XVIZLiveLoader",
+            "markdown": "api-reference/xviz-live-loader.md"
+          }
+        ]
+      },
+      {
+        "name": "React Components",
+        "children": [
+          {
+            "name": "connectToLog",
+            "markdown": "api-reference/connect-to-log.md"
+          },
+          {
+            "name": "LogViewer",
+            "markdown": "api-reference/log-viewer.md"
+          },
+          {
+            "name": "MeterWidget",
+            "markdown": "api-reference/meter-widget.md"
+          },
+          {
+            "name": "PlaybackControl",
+            "markdown": "api-reference/playback-control.md"
+          },
+          {
+            "name": "StreamSettingsPanel",
+            "markdown": "api-reference/stream-settings-panel.md"
+          },
+          {
+            "name": "TrafficLightWidget",
+            "markdown": "api-reference/traffic-light-widget.md"
+          },
+          {
+            "name": "TurnSignalWidget",
+            "markdown": "api-reference/turn-signal-widget.md"
+          },
+          {
+            "name": "XVIZPanel",
+            "markdown": "api-reference/xviz-panel.md"
+          }
+        ]
+      },
+      {
+        "name": "React Components (experimental)",
+        "children": [
+          {
+            "name": "BaseWidget",
+            "markdown": "api-reference/base-widget.md"
+          },
+          {
+            "name": "XVIZMetric",
+            "markdown": "api-reference/xviz-metric.md"
+          },
+          {
+            "name": "XVIZPlot",
+            "markdown": "api-reference/xviz-plot.md"
+          },
+          {
+            "name": "XVIZTable",
+            "markdown": "api-reference/xviz-table.md"
+          },
+          {
+            "name": "XVIZVideo",
+            "markdown": "api-reference/xviz-video.md"
+          }
+        ]
+      }
+    ]
+  }
+]
